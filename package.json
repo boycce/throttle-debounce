@@ -1,0 +1,23 @@
+{
+  "name": "throttle-debounce",
+  "version": "0.1.0",
+  "description": "Throttle/debounce allows you to rate-limit your functions in multiple useful ways",
+
+  "author": "Ricky Boyce",
+  "homepage": "http://github.com/boyyce/throttle-debounce",
+  "bugs": "https://github.com/boyyce/throttle-debounce/issues",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boyyce/throttle-debounce.git"
+  },
+
+  "main": "throttle.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "0.6.0"
+  }
+}
